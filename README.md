@@ -12,3 +12,14 @@ This project simulates a full order lifecycle with live tracking capabilities.
 🗂 **Project Structure:**
 - `shipment.html` → The dynamic tracking page
 - `data.json` → Tracker ID data
+- ### 💼 About the Project
+
+This simulation models a real-world e-commerce order lifecycle. Users can:
+
+- Place orders
+- Track their delivery status via a web link
+- View dynamic delivery details based on Tracker ID
+- Analyze orders in the Google Sheet
+
+Ideal for logistics, product ops, or project coordination roles.
+
