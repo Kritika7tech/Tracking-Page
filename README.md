@@ -22,4 +22,15 @@ This simulation models a real-world e-commerce order lifecycle. Users can:
 - Analyze orders in the Google Sheet
 
 Ideal for logistics, product ops, or project coordination roles.
+## 🚀 Tech Used
 
+- HTML + CSS + JavaScript
+- GitHub Pages (for hosting)
+- JSON (for dynamic data)
+- Google Sheets (for lifecycle dashboard)
+
+---
+
+## 🌟 Why This Project?
+
+This is a mini-simulation of a real-world **Product Ops / Supply Chain / Project Coordination** system — showing skills in data tracking, frontend integration, and system thinking.
